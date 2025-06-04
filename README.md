@@ -1,5 +1,5 @@
 # 🛣️ Lane Detection with OpenCV 
-This project demonstrates how to detect lane lines on roads using OpenCV and Python. It's built for beginners and explains each step with visual outputs and documentation.
+This project demonstrates how to detect lane lines on roads using OpenCV and Python. Each step is explained with visual outputs and documentation.
 
 
 ## 🚀 How It Works
