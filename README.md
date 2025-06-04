@@ -14,9 +14,9 @@ This project demonstrates how to detect lane lines on roads using OpenCV and Pyt
 
 ## 📁 File Structure
 
-- `lane_detection.ipynb` - Jupyter Notebook with all steps
+- `lane_detection.ipynb` - Jupyter Notebook 
 - `test_frame.jpg` - Sample road image
-- `output_images/` - Optional output folder for plots
+- `output_images/` - Output folder with plots
 - `requirements.txt` - List of Python libraries to install
 
 ## 📦 Installation
